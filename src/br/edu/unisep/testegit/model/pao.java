@@ -3,7 +3,7 @@ package br.edu.unisep.testegit.model;
 public class pao {
     private String nome;
     private int idade;
-    private String sexo;
+    private Boolean sexo;
     private int ano;
 
     public pao(String nome, int idade, String sexo, int ano) {
